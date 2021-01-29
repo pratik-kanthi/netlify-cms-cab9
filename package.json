@@ -1,0 +1,106 @@
+{
+    "name": "cab9.website",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "develop": "gridsome develop",
+        "explore": "gridsome explore",
+        "build": "gridsome build",
+        "lint": "./node_modules/.bin/eslint --ext .vue .",
+        "lint-fix": "vue-cli-service lint",
+        "build:deploy": "gridsome build",
+        "postbuild:deploy": "mkdir www && mv dist/* ./www && mv ./www/app.yaml ./dist && mv www ./dist",
+        "deploy:live": "cd dist && gcloud auth login --no-launch-browser && gcloud config set project prod-cab9 && gcloud app deploy --appyaml=app.yaml",
+        "deploy:dev": "cd dist && gcloud auth login --no-launch-browser && gcloud config set project dev-cab9 && gcloud app deploy --appyaml=app.yaml"
+    },
+    "dependencies": {
+        "@gridsome/plugin-critical": "^0.2.0",
+        "@gridsome/source-filesystem": "^0.6.2",
+        "@gridsome/source-ghost": "^0.4.0",
+        "@gridsome/transformer-remark": "^0.6.2",
+        "autoprefixer": "^9.8.6",
+        "gridsome": "^0.7.0",
+        "gridsome-plugin-netlify-cms": "^1.0.9",
+        "gridsome-source-github-api": "^0.2.0",
+        "gridsome-source-google-sheets": "^0.4.1",
+        "jquery": "^3.5.1",
+        "lottie-web": "^5.7.3",
+        "netlify-cms": "^2.10.56",
+        "vue-slick-carousel": "^1.0.6"
+    },
+    "devDependencies": {
+        "@e9ine/eslint-config-vue": "^1.0.0",
+        "@fullhuman/postcss-purgecss": "^2.3.0",
+        "@vue/cli-plugin-babel": "^4.5.4",
+        "@vue/cli-plugin-eslint": "^4.5.4",
+        "@vue/cli-service": "^4.5.4",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.8.1",
+        "eslint-plugin-vue": "^6.2.2",
+        "gridsome-plugin-pwa": "0.0.18",
+        "gridsome-plugin-tailwindcss": "^3.0.1",
+        "lint-staged": "^10.2.13",
+        "node-sass": "^4.14.1",
+        "postcss": "^7.0.35",
+        "postcss-import": "^13.0.0",
+        "postcss-preset-env": "^6.7.0",
+        "prettier": "^2.1.1",
+        "sass-loader": "^10.0.1",
+        "style-resources-loader": "^1.3.3",
+        "tailwindcss": "1.9",
+        "tailwindcss-debug-screens": "^1.1.0"
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true,
+            "browser": true
+        },
+        "globals": {
+            "$": false
+        },
+        "extends": [
+            "@e9ine/eslint-config-vue"
+        ],
+        "parserOptions": {
+            "parser": "babel-eslint"
+        },
+        "overrides": [
+            {
+                "files": [
+                    "**/__tests__/*.{j,t}s?(x)",
+                    "**/tests/unit/**/*.spec.{j,t}s?(x)"
+                ],
+                "env": {
+                    "jest": true
+                }
+            }
+        ]
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ],
+    "prettier": {
+        "semi": true,
+        "tabWidth": 4,
+        "singleQuote": true,
+        "printWidth": 500,
+        "jsxBracketSameLine": true
+    },
+    "lint-staged": {
+        "*.js": [
+            "prettier --write",
+            "vue-cli-service lint",
+            "git add"
+        ],
+        "*.vue": [
+            "prettier --write",
+            "vue-cli-service lint",
+            "git add"
+        ],
+        "src/config.js": [
+            "node scripts/verifyUntrackable.js"
+        ]
+    }
+}

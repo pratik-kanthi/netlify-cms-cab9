@@ -1,0 +1,18 @@
+@include create-heading-type-scale('minor-second');
+
+@screen md {
+  @include create-heading-type-scale('major-second');
+}
+
+@screen xl {
+  @include create-heading-type-scale('minor-third');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-semibold text-secondary leading-snug font-demi;
+}

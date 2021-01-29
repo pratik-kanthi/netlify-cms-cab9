@@ -1,0 +1,6 @@
+Container padding: px-5 sm:px-8 xl:px-4
+Container centered: px-5 sm:px-8 xl:px-40
+Section padding: py-16 md:py-20 xl:py-32
+Columns:grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-8 xl:gap-12 flex items-center
+H1 class: mb-3 xl:mb-5
+Buttom margin: mt-8 md:mt-10

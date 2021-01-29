@@ -1,0 +1,87 @@
+[
+  {
+    "Plan": "Comfort",
+    "Monthly Charges": "£150.00",
+    "Fleet Size": "10",
+    "Features": {
+      "Cab9": "YES",
+      "Branded Passenger App": "YES",
+      "Branded Driver App": "Generic Driver App",
+      "Customer Portal": "NO",
+      "Web Booker": "NO",
+      "Flight Tracking": "YES",
+      "First Line Support": "M-F 9 to 6",
+      "Mission Critical Support": "24/7"
+    },
+    "Setup Charge": "£499.00",
+    "Additional F/T Drivers Charge": "£18.00"
+  },
+  {
+    "Plan": "Complete",
+    "Monthly Charges": "£295.00",
+    "Fleet Size": "20",
+    "Features": {
+      "Cab9": "YES",
+      "Branded Passenger App": "YES",
+      "Branded Driver App": "YES",
+      "Customer Portal": "YES",
+      "Web Booker": "YES",
+      "Flight Tracking": "YES",
+      "First Line Support": "M-F 9 to 6",
+      "Mission Critical Support": "24/7"
+    },
+    "Setup Charge": "£695.00",
+    "Additional F/T Drivers Charge": "£18.00"
+  },
+  {
+    "Plan": "Freedom",
+    "Monthly Charges": "£625.00",
+    "Fleet Size": "50",
+    "Features": {
+      "Cab9": "YES",
+      "Branded Passenger App": "YES",
+      "Branded Driver App": "YES",
+      "Customer Portal": "YES",
+      "Web Booker": "YES",
+      "Flight Tracking": "YES",
+      "First Line Support": "24/7",
+      "Mission Critical Support": "24/7"
+    },
+    "Setup Charge": "£950.00",
+    "Additional F/T Drivers Charge": "£15.00"
+  },
+  {
+    "Plan": "Infinity",
+    "Monthly Charges": "£985.00",
+    "Fleet Size": "100",
+    "Features": {
+      "Cab9": "YES",
+      "Branded Passenger App": "YES",
+      "Branded Driver App": "YES",
+      "Customer Portal": "YES",
+      "Web Booker": "YES",
+      "Flight Tracking": "YES",
+      "First Line Support": "24/7",
+      "Mission Critical Support": "24/7"
+    },
+    "Setup Charge": "£1450.00",
+    "Additional F/T Drivers Charge": "£12.50"
+  },
+  {
+    "Plan": "Bespoke",
+    "Monthly Charges": "POA",
+    "Fleet Size": "100+",
+    "Features": {
+      "Cab9": "YES",
+      "Branded Passenger App": "YES",
+      "Branded Driver App": "YES",
+      "Customer Portal": "YES",
+      "Web Booker": "YES",
+      "Flight Tracking": "YES",
+      "First Line Support": "24/7",
+      "Mission Critical Support": "24/7"
+    },
+    "Setup Charge": "POA",
+    "Additional F/T Drivers Charge": "POA"
+  }
+]

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html ${htmlAttrs} ontouchmove>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src='https://www.googletagmanager.com/gtag/js?id=UA-128973805-1'></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-128973805-1');
+    </script>
+
+    ${head}
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='description'
+          content='Cab9 is a powerful dispatch system with fully featured driver and passenger apps that seamlessly integrate with your workflow. Configure the system to suit your business needs and let Cab9 take care of the rest.'>
+    <meta name='keywords' content='keywords' content='Cab9, Auto Dispatch, Driver App, Passenger App, Workshare'>
+    <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+    <meta property='og:title' content='Cab9' />
+    <meta property='og:image' content='/uploads/cab9.jpg' />
+    <!-- Start of Iubenda Cookie Code -->
+    <script type='text/javascript'>
+        var _iub = _iub || [];
+        _iub.csConfiguration = {
+            'whitelabel': false,
+            'lang': 'en',
+            'siteId': 1876350,
+            'cookiePolicyId': 25848319,
+            'banner': {
+                'rejectButtonColor': '#0073CE',
+                'rejectButtonCaptionColor': 'white',
+                'position': 'float-bottom-center',
+                'textColor': 'black',
+                'backgroundColor': 'white'
+            }
+        };
+    </script>
+    <script type='text/javascript' src='//cdn.iubenda.com/cs/iubenda_cs.js' charset='UTF-8' async></script>
+    <!-- End of Iubenda Cookie Code -->
+    <!-- Start of Iubenda Consent Code -->
+    <script type='text/javascript'>
+        var _iub = _iub || {};
+        _iub.cons_instructions = _iub.cons_instructions || [];
+        _iub.cons_instructions.push(['init', {
+            api_key: 'k6dMQwyVlcUMqbLGgZ7RSYgQxWdeZIPB'
+        }]);
+    </script>
+    <script type='text/javascript' src='https://cdn.iubenda.com/cons/iubenda_cons.js' async></script>
+    <!-- End of Iubenda Consent Code -->
+</head>
+<body ${bodyAttrs} tabIndex='0'>
+${app}
+${scripts}
+</body>
+<script type='text/javascript'>
+    if (navigator.appName.indexOf('Internet Explorer') != -1 || navigator.userAgent.match(/Trident.*rv[ :]*11\./)) {
+        window.location = 'ie/index.html';
+    }
+</script>
+</html>

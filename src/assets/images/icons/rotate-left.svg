@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="98px" viewBox="0 0 117 98" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Shape</title>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="two-rotating-arrows" transform="translate(0.000000, -81.000000)" fill="#CBD5E0" fill-rule="nonzero">
+			<path d="M0.675,94.545 C0.675,90.189 1.313,85.929 2.513,81.818 C10.342,108.764 42.581,129.541 82.463,132.542 L82.463,111.288 L116.337,145.144 L82.463,179.006 L82.463,158.003 C36.476,154.542 0.675,127.452 0.675,94.545 Z"
+				  id="Shape"></path>
+		</g>
+	</g>
+</svg>

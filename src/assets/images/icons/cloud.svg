@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Group</title>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
+	   stroke-linejoin="round">
+		<g id="Home-Drop" transform="translate(-602.000000, -3012.000000)" stroke="#D80000" stroke-width="2">
+			<g id="Group-11" transform="translate(-10.000000, 2723.000000)">
+				<g id="Features" transform="translate(10.000000, 0.000000)">
+					<g id="Group-5-Copy-3" transform="translate(600.000000, 289.000000)">
+						<g id="cloud-data-transfer" transform="translate(2.000000, 0.000000)">
+							<path d="M41,28.812 C44.1404511,27.3603225 46.109024,24.1720217 46,20.714 C45.9621352,18.1550876 44.8849816,15.7216654 43.0161917,13.9732115 C41.1474019,12.2247575 38.6477713,11.3117131 36.092,11.444 C33.8131878,6.85749465 29.1213341,3.96912558 24,4 C17.0210459,3.90636997 11.1735011,9.25807804 10.65,16.218 C8.56647895,15.7599115 6.38733058,16.2599149 4.71192119,17.5804861 C3.0365118,18.9010573 2.04129452,20.9031147 2,23.036 C1.8336821,26.1534078 3.95040978,28.9322479 7,29.6"
+								  id="Shape"></path>
+							<polyline id="Shape" points="12 38 18 44 24 38"></polyline>
+							<line x1="18" y1="44" x2="18" y2="26" id="Shape"></line>
+							<polyline id="Shape" points="24 32 30 26 36 32"></polyline>
+							<line x1="30" y1="26" x2="30" y2="44" id="Shape"></line>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

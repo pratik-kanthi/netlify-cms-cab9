@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>cancel copy 2</title>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="cancel-copy-2">
+			<path d="M11.9906136,0 C5.36846838,0 0,5.36846838 0,11.9906136 C0,18.6127588 5.36846838,23.9812272 11.9906136,23.9812272 C18.6127588,23.9812272 23.9812272,18.6127588 23.9812272,11.9906136 C23.9812272,5.36846838 18.612815,0 11.9906136,0 Z"
+				  id="Path" fill="#F05228" fill-rule="nonzero"></path>
+			<g id="Group-8" transform="translate(7.081967, 7.081967)" fill="#D8D8D8" stroke="#FFFFFF" stroke-width="2">
+				<line x1="2.63469246e-12" y1="9.7313832" x2="9.78794172" y2="-8.52651283e-15" id="Path-3"></line>
+				<line x1="4.43378667e-13" y1="9.7313832" x2="9.78794172" y2="0" id="Path-3"
+					  transform="translate(4.893971, 4.865692) scale(-1, 1) translate(-4.893971, -4.865692) "></line>
+			</g>
+		</g>
+	</g>
+</svg>

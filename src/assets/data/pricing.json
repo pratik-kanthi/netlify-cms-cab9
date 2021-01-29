@@ -1,0 +1,98 @@
+[
+  {
+    "Plan": "Monthly Charges",
+    "Comfort": "£150.00",
+    "Complete": "£295.00",
+    "Freedom": "£625.00",
+    "Infinity": "£985.00",
+    "Bespoke": "POA"
+  },
+  {
+    "Plan": "<span class='font-semibold'>Fleet Size</span>",
+    "Comfort": "10",
+    "Complete": "20",
+    "Freedom": "50",
+    "Infinity": "100",
+    "Bespoke": "100+"
+  },
+  {
+    "Plan": "Cab9",
+    "Comfort": "YES",
+    "Complete": "YES",
+    "Freedom": "YES",
+    "Infinity": "YES",
+    "Bespoke": "YES"
+  },
+  {
+    "Plan": "Branded Passenger App",
+    "Comfort": "YES",
+    "Complete": "YES",
+    "Freedom": "YES",
+    "Infinity": "YES",
+    "Bespoke": "YES"
+  },
+  {
+    "Plan": "Branded Driver App",
+    "Comfort": "Generic Driver App",
+    "Complete": "YES",
+    "Freedom": "YES",
+    "Infinity": "YES",
+    "Bespoke": "YES"
+  },
+  {
+    "Plan": "Customer Portal",
+    "Comfort": "NO",
+    "Complete": "YES",
+    "Freedom": "YES",
+    "Infinity": "YES",
+    "Bespoke": "YES"
+  },
+  {
+    "Plan": "Web Booker",
+    "Comfort": "NO",
+    "Complete": "YES",
+    "Freedom": "YES",
+    "Infinity": "YES",
+    "Bespoke": "YES"
+  },
+  {
+    "Plan": "Flight Tracking",
+    "Comfort": "YES",
+    "Complete": "YES",
+    "Freedom": "YES",
+    "Infinity": "YES",
+    "Bespoke": "YES"
+  },
+  {
+    "Plan": "First Line Support",
+    "Comfort": "M-F 9 to 6",
+    "Complete": "M-F 9 to 6",
+    "Freedom": "24/7",
+    "Infinity": "24/7",
+    "Bespoke": "24/7"
+  },
+  {
+    "Plan": "Mission Critical Support",
+    "Comfort": "24/7",
+    "Complete": "24/7",
+    "Freedom": "24/7",
+    "Infinity": "24/7",
+    "Bespoke": "24/7"
+  },
+  {
+    "Plan": "<span class='font-semibold'>Setup Charge</span>",
+    "Comfort": "£499.00",
+    "Complete": "£695.00",
+    "Freedom": "£950.00",
+    "Infinity": "£1450.00",
+    "Bespoke": "POA"
+  },
+  {
+    "Plan": "<span class='font-semibold'>Additional F/T Drivers Charge</span>",
+    "Comfort": "£18.00",
+    "Complete": "£18.00",
+    "Freedom": "£15.00",
+    "Infinity": "£12.50",
+    "Bespoke": "POA"
+  }
+]

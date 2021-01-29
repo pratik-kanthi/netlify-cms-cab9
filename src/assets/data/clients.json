@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Excel Executive",
+    "ImageURL": "customers/client-logos/excel-exec.png"
+  },
+  {
+    "Name": "UK Car Bookings",
+    "ImageURL": "customers/client-logos/uk-car-bookings.png"
+  },
+  {
+    "Name": "Herts Executive",
+    "ImageURL": "customers/client-logos/herts-exec.png"
+  },
+  {
+    "Name": "Somerset Exec Travel",
+    "ImageURL": "customers/client-logos/somerset-exec-travel.png"
+  },
+  {
+    "Name": "Cornwall Cars",
+    "ImageURL": "customers/client-logos/cornwall-cars.png"
+  },
+  {
+    "Name": "Samtax Taxi",
+    "ImageURL": "customers/client-logos/samtax-taxi.png"
+  },
+  {
+    "Name": "JAF Executive Travels Limited",
+    "ImageURL": "customers/client-logos/jaf-exec.png"
+  },
+  {
+    "Name": "Chauffeured By Car",
+    "ImageURL": "customers/client-logos/cbc.png"
+  },
+  {
+    "Name": "Neston Private Hire",
+    "ImageURL": "customers/client-logos/neston.png"
+  },
+  {
+    "Name": "Parkers Executive Chauffeurs",
+    "ImageURL": "customers/client-logos/parkers-exec.png"
+  },
+  {
+    "Name": "Carrus Private Hire",
+    "ImageURL": "customers/client-logos/carrus.png"
+  },
+  {
+    "Name": "Atlas Cars",
+    "ImageURL": "customers/client-logos/atlas-cars.png"
+  }
+]

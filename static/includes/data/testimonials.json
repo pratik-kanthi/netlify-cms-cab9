@@ -1,0 +1,25 @@
+[
+{
+    "LogoUrl": "/includes/images/customers-voice/hertz-logo.png",
+    "Desc": "CAB9 increased our Operational Efficiency whilst offering our clients more ways to book, modern and intuitive booking, dispatch and business reporting tool.",
+    "Active": true,
+    "Manager": "Bal Notay",
+    "Role": "Managing Director",
+    "Company": "Hertz Executive"
+},
+{
+    "LogoUrl": "/includes/images/customers-voice/samtax.png",
+    "Desc": "Best Dispatch system seen in Decades, Highly Recommended.",
+    "Active": true,
+    "Manager": "Pam",
+    "Role": "Company Director",
+    "Company": "Samtax"
+},
+{
+    "LogoUrl": "/includes/images/customers-voice/ukcb.png",
+    "Desc": "Communication between Operator, Driver and Passenger outstanding.",
+    "Active": true,
+    "Manager": "Nabeel",
+    "Role": "Managing Director",
+    "Company": "UKCB"
+}]

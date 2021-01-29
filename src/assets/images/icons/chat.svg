@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="48px" viewBox="0 0 57 48" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Group 4</title>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Driver-App" transform="translate(-295.000000, -1328.000000)">
+			<g id="Group-4" transform="translate(296.000000, 1329.000000)">
+				<g id="Group-2">
+					<path d="M4,2.09610107e-13 L41,2.09610107e-13 C43.209139,2.09204295e-13 45,1.790861 45,4 L45,26 C45,28.209139 43.209139,30 41,30 L14.9442837,30 L14.9442837,30 L8.07513645,38.0367559 L8.07513645,30 L4,30 C1.790861,30 2.705415e-16,28.209139 0,26 L0,4 C-2.705415e-16,1.790861 1.790861,2.10015919e-13 4,2.09610107e-13 Z"
+						  id="Rectangle" stroke="#D80000" stroke-width="2" stroke-linejoin="round"></path>
+					<circle id="Oval" fill="#D80000" cx="13" cy="15" r="3"></circle>
+					<circle id="Oval-Copy" fill="#D80000" cx="23" cy="15" r="3"></circle>
+					<circle id="Oval-Copy-2" fill="#D80000" cx="33" cy="15" r="3"></circle>
+				</g>
+				<g id="Group-2"
+				   transform="translate(38.000000, 26.500000) scale(-1, 1) translate(-38.000000, -26.500000) translate(21.000000, 7.000000)"
+				   stroke="#D80000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+					<path d="M33.532962,30 L33.532962,30 L14.9442837,30 L8.07513645,38.0367559 L8.07513645,30 L4,30 C1.790861,30 0,28.209139 0,26 L0,4 C0,1.790861 1.790861,0 4,0 L4.91067812,0 L4.91067812,0"
+						  id="Path"></path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

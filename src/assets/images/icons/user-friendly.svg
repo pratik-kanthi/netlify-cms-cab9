@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="49px" viewBox="0 0 52 49" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Group</title>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+		<g id="Dispatch-System" transform="translate(-296.000000, -1081.000000)" stroke="#D80000" stroke-width="1.8">
+			<g id="browser-page-account" transform="translate(297.000000, 1082.000000)">
+				<path d="M11.6027159,46.9677419 L38.0294567,46.9677419 M47.4623656,0 C48.5669351,-2.02906125e-16 49.4623656,0.8954305 49.4623656,2 L49.4623656,37.2258065 C49.4623656,38.330376 48.5669351,39.2258065 47.4623656,39.2258065 L2,39.2258065 C0.8954305,39.2258065 -6.32247764e-13,38.330376 -6.32383035e-13,37.2258065 L-6.32383035e-13,2 C-6.32518306e-13,0.8954305 0.8954305,2.02906125e-16 2,0 L47.4623656,0 Z"
+					  id="Combined-Shape"></path>
+				<line x1="-6.60804744e-13" y1="8.25806452" x2="49.4623656" y2="8.25806452" id="Shape"
+					  stroke-linejoin="round"></line>
+				<rect id="Rectangle-path" stroke-linejoin="round" x="27.9569892" y="14.7096774" width="15.0537634"
+					  height="4.12903226" rx="0.5"></rect>
+				<rect id="Rectangle-path" stroke-linejoin="round" x="27.827957" y="22.7526882" width="15.0537634"
+					  height="4.12903226" rx="0.5"></rect>
+				<rect id="Rectangle-path" stroke-linejoin="round" x="6.4516129" y="14.7096774" width="15.0537634"
+					  height="17.2043011" rx="0.5"></rect>
+				<circle id="Oval" stroke-linejoin="round" cx="13.9784946" cy="22.2365591" r="3.22580645"></circle>
+				<path d="M8.60215054,31.9139785 C8.33261158,28.6563727 10.7256868,25.7846824 13.9784946,25.4623656 C17.2313025,25.7846824 19.6243777,28.6563727 19.3548387,31.9139785"
+					  id="Shape" stroke-linejoin="round"></path>
+				<path d="M4.62365591,3.13978495 C4.9205832,3.13978495 5.16129032,3.38049207 5.16129032,3.67741935 C5.16129032,3.97434664 4.9205832,4.21505376 4.62365591,4.21505376 C4.32672863,4.21505376 4.08602151,3.97434664 4.08602151,3.67741935 C4.08602151,3.38049207 4.32672863,3.13978495 4.62365591,3.13978495"
+					  id="Shape" stroke-linejoin="round"></path>
+				<line x1="27.827957" y1="31.02267" x2="42.8817204" y2="31.02267" id="Path-3"></line>
+			</g>
+		</g>
+	</g>
+</svg>

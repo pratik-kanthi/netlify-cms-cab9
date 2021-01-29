@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="95px" viewBox="0 0 100 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>browser-page-account</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Dispatch-System" transform="translate(-1085.000000, -1283.000000)" stroke="#D80000" stroke-width="3.5">
+            <g id="Group" transform="translate(1087.000000, 1284.000000)">
+                <g id="browser-page-account">
+                    <path d="M22.5635953,91.9166667 L73.7654056,91.9166667 L22.5635953,91.9166667 Z M48,76.9166667 L48,90.9166667 L48,76.9166667 Z M2.08333333,0.916666667 L93.9166667,0.916666667 C95.0212362,0.916666667 95.9166667,1.81209717 95.9166667,2.91666667 L95.9166667,74.9166667 C95.9166667,76.0212362 95.0212362,76.9166667 93.9166667,76.9166667 L2.08333333,76.9166667 C0.978763834,76.9166667 0.0833333333,76.0212362 0.0833333333,74.9166667 L0.0833333333,2.91666667 C0.0833333333,1.81209717 0.978763834,0.916666667 2.08333333,0.916666667 Z" id="Combined-Shape"></path>
+                    <path d="M0.0833333333,16.9166667 L95.9166667,16.9166667" id="Shape" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-path" stroke-linejoin="round" x="54.25" y="29.4166667" width="29.1666667" height="8" rx="0.5"></rect>
+                    <rect id="Rectangle-path" stroke-linejoin="round" x="54" y="45" width="29.1666667" height="8" rx="0.5"></rect>
+                    <rect id="Rectangle-path" stroke-linejoin="round" x="12.5833333" y="29.4166667" width="29.1666667" height="33.3333333" rx="0.5"></rect>
+                    <circle id="Oval" stroke-linejoin="round" cx="27.1666667" cy="44" r="6.25"></circle>
+                    <path d="M16.75,62.75 C16.2277683,56.4383887 20.8643515,50.8744889 27.1666667,50.25 C33.4689818,50.8744889 38.1055651,56.4383887 37.5833333,62.75" id="Shape" stroke-linejoin="round"></path>
+                    <path d="M9.04166667,7 C9.61696328,7 10.0833333,7.46637005 10.0833333,8.04166667 C10.0833333,8.61696328 9.61696328,9.08333333 9.04166667,9.08333333 C8.46637005,9.08333333 8,8.61696328 8,8.04166667 C8,7.46637005 8.46637005,7 9.04166667,7" id="Shape" stroke-linejoin="round"></path>
+                    <path d="M54,61.0230898 L83.1666667,61.0230898" id="Path-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>smartphone-pay-dollar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dispatch-System" transform="translate(-255.000000, -1668.000000)" stroke="#D80000" stroke-width="3.6">
+            <g id="Group" transform="translate(257.000000, 1670.000000)">
+                <g id="smartphone-pay-dollar">
+                    <path d="M54.2666667,79.25 L0.1,79.25" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M27.1666667,86.5416667 L27.1666667,86.5416667 C27.7419633,86.5416667 28.2083333,87.0080367 28.2083333,87.5833333 L28.2083333,87.5833333 C28.2083333,88.1586299 27.7419633,88.625 27.1666667,88.625 L27.1666667,88.625 C26.5913701,88.625 26.125,88.1586299 26.125,87.5833333 L26.125,87.5833333 C26.125,87.0080367 26.5913701,86.5416667 27.1666667,86.5416667" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M54.25,66.75 L54.25,87.5833333 C54.25,92.1857062 50.5190396,95.9166667 45.9166667,95.9166667 L8.41666667,95.9166667 C3.81429375,95.9166667 0.0833333333,92.1857062 0.0833333333,87.5833333 L0.0833333333,8.41666667 C0.0833333333,3.81429375 3.81429375,0.0833333333 8.41666667,0.0833333333 L48,0.0833333333 C51.4517797,0.0833333333 54.25,2.88155365 54.25,6.33333333 L54.25,8.41666667" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-path" stroke-linecap="round" stroke-linejoin="round" x="20.9333333" y="17.75" width="75" height="41.6666667" rx="1"></rect>
+                    <path d="M20.9333333,32.3333333 L35.5166667,17.75" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M95.9333333,32.3333333 L81.35,17.75" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M20.9333333,44.8333333 L35.5166667,59.4166667" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M95.9333333,44.8333333 L81.35,59.4166667" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" cx="58" cy="39" r="10"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

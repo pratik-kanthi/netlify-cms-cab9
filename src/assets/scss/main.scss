@@ -1,0 +1,95 @@
+@tailwind base;
+
+@tailwind components;
+
+@layer components {
+  .btn-primary {
+	@apply bg-primary text-white text-xs rounded uppercase font-demi px-6 py-3 inline-block cursor-pointer;
+	letter-spacing: 0.2em;
+  }
+
+  .btn-primary:hover {
+	@apply bg-red-700;
+  }
+
+  .btn-gray-100 {
+	@apply bg-gray-100 text-primary text-xs rounded uppercase font-demi px-6 py-3 inline-block cursor-pointer;
+	letter-spacing: 0.2em;
+  }
+
+  .btn-gray-100:hover {
+	@apply bg-gray-300;
+  }
+
+  .btn-gray-500 {
+	@apply bg-gray-500 text-white text-xs rounded uppercase font-demi px-6 py-3 inline-block cursor-pointer;
+	letter-spacing: 0.2em;
+  }
+
+  .btn-gray-500:hover {
+	@apply bg-gray-600;
+  }
+}
+
+
+@import 'variables';
+@import 'mixins';
+@import 'base';
+@import 'type';
+
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: normal;
+  font-display: swap;
+  src: url('../fonts/AvenirNext/AvenirNext-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('../fonts/AvenirNext/AvenirNext-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir Next Demi';
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/AvenirNext/AvenirNext-DemiBold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/AvenirNext/AvenirNext-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@tailwind utilities;
+
+
+@layer utilities {
+  @responsive {
+	.text-shadow {
+	  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.10);
+	}
+
+	.text-shadow-md {
+	  text-shadow: 0 4px 8px rgba(0, 0, 0, 0.12), 0 2px 4px rgba(0, 0, 0, 0.08);
+	}
+
+	.text-shadow-lg {
+	  text-shadow: 0 15px 30px rgba(0, 0, 0, 0.11), 0 5px 15px rgba(0, 0, 0, 0.08);
+	}
+
+	.text-shadow-none {
+	  text-shadow: none;
+	}
+  }
+
+}

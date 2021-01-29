@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" class="loaded" ng-app="cab9" ng-strict-di>
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128973805-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-128973805-1');
+    </script>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta property="og:title" content="Cab9 - Powerful, Simple and Innovative way to manage your Private Hire and Taxi Business" />
+    <meta name="og:description" content="Cab9 is a cloud based business management tool for taxi and chauffeuring firms. The innovative design & powerful capability allows you to communicate with your business in a seamless manner." />
+    <meta property="og:image" content="https://cab9.app/includes/images/og-image.jpg" />
+    <base href="/">
+    <link rel="shortcut icon" href="/includes/images/favicon.ico">
+    <link href="/includes/css/style.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Cab9 - Powerful, Simple and Innovative way to manage your Private Hire and Taxi Business</title>
+    <meta name="title"
+        content="Cab9 - Powerful, Simple and Innovative way to manage your Private Hire and Taxi Business">
+    <meta name="description"
+        content="Cab9 is a cloud based business management tool for taxi and chauffeuring firms. The innovative design & powerful capability allows you to communicate with your business in a seamless manner.">
+    <meta name="keywords" content="Cab9, Auto Dispatch, Driver App, Client App">
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if IE 9]>
+        <script type="text/javascript">
+            window.isIE9 = true;
+        </script>
+    <![endif]-->
+    <!--[if gte IE 9]>
+    <style type="text/css">
+        .gradient {
+        filter: none;
+        }
+    </style>
+    <![endif]-->
+    <!-- Start of Iubenda Cookie Code -->
+    <script type="text/javascript">
+        var _iub = _iub || [];
+        _iub.csConfiguration = {
+            "whitelabel": false,
+            "lang": "en",
+            "siteId": 1876350,
+            "cookiePolicyId": 25848319,
+            "banner": {
+                "rejectButtonColor": "#0073CE",
+                "rejectButtonCaptionColor": "white",
+                "position": "float-bottom-center",
+                "textColor": "black",
+                "backgroundColor": "white"
+            }
+        };
+    </script>
+    <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+    <!-- End of Iubenda Cookie Code -->
+    <!-- Start of Iubenda Consent Code -->
+    <script type="text/javascript">
+        var _iub = _iub || {};
+        _iub.cons_instructions = _iub.cons_instructions || [];
+        _iub.cons_instructions.push(["init", {
+            api_key: "k6dMQwyVlcUMqbLGgZ7RSYgQxWdeZIPB"
+        }]);
+    </script>
+    <script type="text/javascript" src="https://cdn.iubenda.com/cons/iubenda_cons.js" async></script>
+    <!-- End of Iubenda Consent Code -->
+</head>
+
+<body>
+    <div class="loader" ng-show="loading">
+        <div class="spinner"></div>
+    </div>
+    <div ui-view name="header"></div>
+    <div ui-view name="layout"></div>
+    <div ui-view name="footer"></div>
+    <!-- build:bower -->
+    <script src="includes/js/dependencies.min.js?ver=1.0.1h"></script>
+    <!-- endbuild -->
+    <!-- build:components -->    <script src="includes/js/components.min.js?ver=1.0.1h"></script>    <!-- endbuild -->    <!-- build:app -->    <script src="includes/js/app.min.js?ver=1.0.1h"></script>    <!-- endbuild --></body>
+
+</html>

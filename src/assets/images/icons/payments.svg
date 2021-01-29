@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Group</title>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Dispatch-System" transform="translate(-927.000000, -1329.000000)" stroke="#D80000" stroke-width="2">
+			<g id="smartphone-pay-dollar" transform="translate(928.000000, 1330.000000)">
+				<line x1="27.1333333" y1="39.625" x2="0.05" y2="39.625" id="Shape" stroke-linecap="round"
+					  stroke-linejoin="round"></line>
+				<path d="M13.5833333,43.2708333 L13.5833333,43.2708333 C13.8709816,43.2708333 14.1041667,43.5040184 14.1041667,43.7916667 L14.1041667,43.7916667 C14.1041667,44.079315 13.8709816,44.3125 13.5833333,44.3125 L13.5833333,44.3125 C13.295685,44.3125 13.0625,44.079315 13.0625,43.7916667 L13.0625,43.7916667 C13.0625,43.5040184 13.295685,43.2708333 13.5833333,43.2708333"
+					  id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+				<path d="M27.125,33.375 L27.125,43.7916667 C27.125,46.0928531 25.2595198,47.9583333 22.9583333,47.9583333 L4.20833333,47.9583333 C1.90714688,47.9583333 0.0416666667,46.0928531 0.0416666667,43.7916667 L0.0416666667,4.20833333 C0.0416666667,1.90714688 1.90714688,0.0416666667 4.20833333,0.0416666667 L24,0.0416666667 C25.7258898,0.0416666667 27.125,1.44077682 27.125,3.16666667 L27.125,4.20833333"
+					  id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+				<rect id="Rectangle-path" stroke-linecap="round" stroke-linejoin="round" x="10.4666667" y="8.875"
+					  width="37.5" height="20.8333333" rx="1"></rect>
+				<line x1="10.4666667" y1="16.1666667" x2="17.7583333" y2="8.875" id="Shape" stroke-linecap="round"
+					  stroke-linejoin="round"></line>
+				<line x1="47.9666667" y1="16.1666667" x2="40.675" y2="8.875" id="Shape" stroke-linecap="round"
+					  stroke-linejoin="round"></line>
+				<line x1="10.4666667" y1="22.4166667" x2="17.7583333" y2="29.7083333" id="Shape" stroke-linecap="round"
+					  stroke-linejoin="round"></line>
+				<line x1="47.9666667" y1="22.4166667" x2="40.675" y2="29.7083333" id="Shape" stroke-linecap="round"
+					  stroke-linejoin="round"></line>
+				<circle id="Oval" cx="29" cy="19.5" r="5"></circle>
+			</g>
+		</g>
+	</g>
+</svg>
